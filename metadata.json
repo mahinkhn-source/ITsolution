@@ -1,0 +1,6 @@
+{
+  "name": "itSOLUTIONKOTHA Digital Gov Service & API Portal",
+  "description": "Gov-style digital service portal and API platform for NID cards, Server Copy, e-TIN certificates, and Citizen Services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
